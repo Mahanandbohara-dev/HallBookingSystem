@@ -1,0 +1,7 @@
+U001|ADMINISTRATOR|bibek|123456|System Administrator|admin@hallsymphony.com|false
+U002|MANAGER|mahanand|123456|System Manager|manager@hallsymphony.com|false
+U003|SCHEDULER|scheduler|scheduler123|System Scheduler|scheduler@hallsymphony.com|false
+U005|SCHEDULER|matina|123456|Matina|matina@gmail.com|false
+U006|CUSTOMER|anjita|123456|anjita|anjita123@gmail.com|false|9801256987
+U007|CUSTOMER|rij|123456|Rij|rij@gmail.com|false|9807654321
+U008|CUSTOMER|katik|123456|Katik|katik@gmail.com|false|9801234563
